@@ -1,0 +1,13 @@
+dormitory-website/
+├── index.html
+├── login.html
+├── logout.php
+├── student_list.html
+├── accounts.html
+├── dorm_list.html
+├── rooms_list.html
+├── user_list.html
+├── settings.html
+├── style.css
+├── script.js
+└── auth.php
